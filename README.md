@@ -1,4 +1,9 @@
-#  Weather Intelligence System (Machine Learning Project)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-XGBoost-green)
+
+# 🌧️ Weather Intelligence System (Machine Learning Project)
+
 
 ## Problem Statement:
 Accurate rainfall prediction is essential for agriculture, transportation planning, and disaster preparedness. Traditional weather analysis methods fail to capture complex relationships between atmospheric variables, leading to unreliable forecasts.
@@ -7,7 +12,7 @@ This project uses Machine Learning to improve rainfall prediction using real-wor
 
 ## Solution Overview
 The Weather Intelligence System is an end-to-end machine learning web application that predicts rainfall probability based on atmospheric conditions and provides interactive weather analytics.
-
+git add .
 It combines:
 - Machine Learning Models
 - Feature Engineering
@@ -127,4 +132,7 @@ streamlit run app.py
 
   
 ## About Me
-Electronics and Computer Engineering undergraduate with strong interest in Machine Learning, Data Science, and Software Development. Skilled in Python, Java, and building end-to-end ML applications with real-world datasets and interactive dashboards. 
+Electronics and Computer Engineering undergraduate with strong interest in Machine Learning, Data Science, and Software Development. Experienced in building end-to-end ML projects involving data preprocessing, model training, and deployment using Streamlit. Skilled in Python, Java, and working with real-world datasets.
+
+## 🌐 Live Demo
+👉 [Click here to open the app](https://weather-intelligence-system-li30.onrender.com/)

@@ -537,3 +537,5 @@ elif page == "About Project":
     - Severe weather alerts
     - Deployment on cloud platforms
     """)
+    
+    
