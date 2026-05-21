@@ -12,7 +12,6 @@ This project uses Machine Learning to improve rainfall prediction using real-wor
 
 ## Solution Overview
 The Weather Intelligence System is an end-to-end machine learning web application that predicts rainfall probability based on atmospheric conditions and provides interactive weather analytics.
-git add .
 It combines:
 - Machine Learning Models
 - Feature Engineering
@@ -136,3 +135,12 @@ Electronics and Computer Engineering undergraduate with strong interest in Machi
 
 ## 🌐 Live Demo
 👉 [Click here to open the app](https://weather-intelligence-system-li30.onrender.com/)
+
+
+## 🎯 Project Impact
+
+## 🎯 Project Impact
+
+This project demonstrates the application of Machine Learning in weather forecasting. It helps understand how atmospheric conditions influence rainfall prediction and showcases an end-to-end ML pipeline including data preprocessing, model training, evaluation, and deployment using Streamlit.
+
+The system can be extended for real-world weather monitoring and decision support in agriculture and disaster management.
