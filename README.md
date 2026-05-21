@@ -125,9 +125,6 @@ streamlit run app.py
 - Multi-day prediction system  
 - Cloud deployment enhancements
 
-
+  
 ## About Me
-Electronics and Computer Engineering undergraduate with strong interest in Machine Learning, Data Science, and Software Development. Skilled in Python, Java, and building end-to-end ML applications with real-world datasets and interactive dashboards.   
-
-
-## 📁 Project Structure
+Electronics and Computer Engineering undergraduate with strong interest in Machine Learning, Data Science, and Software Development. Skilled in Python, Java, and building end-to-end ML applications with real-world datasets and interactive dashboards. 
