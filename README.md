@@ -136,9 +136,6 @@ Electronics and Computer Engineering undergraduate with strong interest in Machi
 ## 🌐 Live Demo
 👉 [Click here to open the app](https://weather-intelligence-system-li30.onrender.com/)
 
-
-## 🎯 Project Impact
-
 ## 🎯 Project Impact
 
 This project demonstrates the application of Machine Learning in weather forecasting. It helps understand how atmospheric conditions influence rainfall prediction and showcases an end-to-end ML pipeline including data preprocessing, model training, evaluation, and deployment using Streamlit.
